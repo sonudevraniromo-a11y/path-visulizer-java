@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.control.Button?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.pathvisualizer.fx.controller.MainController">
+
+    <top>
+        <Button text="Run Algorithm" />
+    </top>
+
+</BorderPane>
